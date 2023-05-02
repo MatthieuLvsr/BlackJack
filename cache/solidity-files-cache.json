@@ -6,7 +6,7 @@
       "contentHash": "b55eb1c1f561d7ac2297d774cdcfd8e6",
       "sourceName": "contracts/Token.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -43,7 +43,7 @@
       "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -74,11 +74,11 @@
       ]
     },
     "C:\\Users\\mattl\\OneDrive\\Bureau\\Projet\\react\\BlackJack\\contracts\\BJ.sol": {
-      "lastModificationDate": 1683016785713,
-      "contentHash": "60713c3ab9dcaf66d7d56119b8a63aa2",
+      "lastModificationDate": 1683021814093,
+      "contentHash": "9ea56efc102e0c11974af244cac40dc8",
       "sourceName": "contracts/BJ.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -102,7 +102,7 @@
       },
       "imports": [],
       "versionPragmas": [
-        "0.8.18"
+        "0.8.9"
       ],
       "artifacts": [
         "BJ"
